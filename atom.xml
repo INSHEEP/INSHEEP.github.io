@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>INSHEEP</title>
   
-  
+  <subtitle>INSHEEP&#39;s Blog</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-24T08:10:24.670Z</updated>
+  <updated>2021-08-24T12:21:15.467Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>INSHEEP</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>试用Hexo的butterfly主题</title>
+    <link href="http://example.com/2021/08/24/test/"/>
+    <id>http://example.com/2021/08/24/test/</id>
+    <published>2021-08-24T09:53:25.000Z</published>
+    <updated>2021-08-24T12:21:15.467Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h1><p><img src="https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png"></p><img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:50px"/><h1 id="图库测试"><a href="#图库测试" class="headerlink" title="图库测试"></a>图库测试</h1><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href='/www.baidu.com'></a>  </figcaption>  </figure>  </div>]]></content>
+    
+    
+    <summary type="html">butterfly真的牛逼牛逼牛逼</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
